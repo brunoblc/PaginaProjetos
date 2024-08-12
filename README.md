@@ -23,4 +23,4 @@ Software de integração de pedidos em restaurantes, usando HTML, CSS, JavaScrip
 - JAVASCRIPT
 - NodeJS
 
- Assista ao vídeo de demonstração aqui: https://drive.google.com/file/d/1H4OkCzDjG7z6AMxggeaosCBkJx5CXjX9/view?usp=sharing
+ Assista ao vídeo de demonstração aqui: https://drive.google.com/file/d/1qNLTTxrtejgQC9h1luyBxA8tAq-IrREX/view?usp=sharing
