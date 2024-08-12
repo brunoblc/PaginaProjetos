@@ -12,5 +12,5 @@ Assim os clientes terão a conciliação com sua operadora de TEF, vendas por di
 - EXCEL
 - SchellSCript
 <video width="640" height="360" controls>
-  <source src="https://drive.google.com/drive/folders/1E9uyzQJjqXyqhBpkFAB16uWtF33QjccE" type="video/mp4">
+  <source src="https://drive.google.com/uc?export=preview&id=1H4OkCzDjG7z6AMxggeaosCBkJx5CXjX9" type="video/mp4">
 </video>
