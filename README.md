@@ -13,4 +13,4 @@ Assim os clientes terão a conciliação com sua operadora de TEF, vendas por di
 - SchellSCript
 <video width="640" height="360" controls>
   <source src="https://drive.google.com/file/d/1DIMwOVVr0iaE3KQEhKyrOwjdZYQWWpEY/view?usp=sharing" type="video/mp4">
-  </video>
+</video>
