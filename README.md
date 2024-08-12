@@ -12,4 +12,4 @@ Assim os clientes terão a conciliação com sua operadora de TEF, vendas por di
 - EXCEL
 - ShellScript
 
- Assista ao vídeo de demonstração aqui: https://drive.google.com/uc?export=preview&id=1H4OkCzDjG7z6AMxggeaosCBkJx5CXjX9
+ Assista ao vídeo de demonstração aqui: https://drive.google.com/file/d/1H4OkCzDjG7z6AMxggeaosCBkJx5CXjX9/view?usp=sharing
